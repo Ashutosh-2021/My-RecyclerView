@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+    <string name="pno">123456789</string>
+    <string name="name">Hello Ashu</string>
+    <string name="imgDesc">user image</string>
+    <string name="addBtnDesc">Add Button</string>
+    <string name="add_data">Add Data</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_phone_no">Enter the Phone no</string>
+    <string name="save">Save</string>
+</resources>
